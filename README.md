@@ -37,9 +37,18 @@ Here are some ideas to get you started:
 ###
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,php,alpinejs,bootstrap,laravel,tailwind)
 
-##### Socials
+###
 
-![https://www.instagram.com/rizky_anugrah77](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<h2 align="left">Socials</h2>
+
+###
+
+
+<div align="left">
+  <a href="https://www.instagram.com/rizky_anugrah77/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
@@ -54,3 +63,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Asterix-CHAN/Asterix-CHAN/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
