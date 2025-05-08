@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ##### Socials
 
-![https://www.instagram.com/rizky_anugrah77/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/rizky_anugrah77](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ###
 
