@@ -15,25 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### -------------------------------------------------------------------------------------------------------
-##### -------------------------------------------------------------------------------------------------------
 
-##### I code with
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php&theme=light&perline=2)](https://skillicons.dev)
+###
 
-##### Frameworks
+<p align="left">My name is Rizky and I'm from Medan</p>
 
-<img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Hanya seorang member IMPHNEN</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,alpinejs,bootstrap,laravel,tailwind)
 
 ##### Socials
 
 ![https://www.instagram.com/rizky_anugrah77/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asterix-CHAN/Asterix-CHAN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asterix-CHAN/Asterix-CHAN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Asterix-CHAN/Asterix-CHAN/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
